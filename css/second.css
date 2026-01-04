@@ -1,0 +1,53 @@
+.list{
+    color:darkorange
+}
+.box{
+    border: 10px solid lightseagreen ;
+    box-shadow: 15px 10px 3px gray;
+    width: 400px;
+    height: 210px;
+    text-align: center;
+    color: blueviolet;
+
+}
+.font{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    
+
+}
+#back-colur{
+     border: 10px ;
+    box-shadow: 15px 10px 3px gray;
+    width: 200px;
+    height: 100px;
+   color: red;
+   background-color: antiquewhite;
+   padding: 50px;
+}
+#second-colur{
+     border: 10px ;
+    box-shadow: 15px 10px 3px gray;
+    width: 200px;
+    height: 100px;
+   
+   background-color: lightskyblue;
+   padding: 50px;
+}
+.back-img{
+    background-image: url(../images/golden-lights_1048944-29356797.jpg);
+    color: purple;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+text-align: center;
+}
+ a {
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: none;
+      
+    }
+   

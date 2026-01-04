@@ -1,0 +1,21 @@
+#digien p{
+    color: gray;
+ }
+ #border-digien{
+    border: 10px solid darkslategrey;
+    margin-top: 40px;
+    height: 200px;
+    width: 400px;
+    border-radius: 9px;
+    background-color: lightseagreen;
+    box-shadow: 5px 5px 3px darkslategray;
+
+ }
+
+ #border-digien h2{
+    color:darkblue;
+   
+ }
+ .hig-light{
+    color:crimson;
+ }
